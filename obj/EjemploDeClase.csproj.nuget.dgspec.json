@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CoderHouse\\EjemploDeClase\\EjemploDeClase.csproj": {}
+    "C:\\CoderHouse\\EjemplosEnClase\\EjemploDeClase.csproj": {}
   },
   "projects": {
-    "C:\\CoderHouse\\EjemploDeClase\\EjemploDeClase.csproj": {
+    "C:\\CoderHouse\\EjemplosEnClase\\EjemploDeClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CoderHouse\\EjemploDeClase\\EjemploDeClase.csproj",
+        "projectUniqueName": "C:\\CoderHouse\\EjemplosEnClase\\EjemploDeClase.csproj",
         "projectName": "EjemploDeClase",
-        "projectPath": "C:\\CoderHouse\\EjemploDeClase\\EjemploDeClase.csproj",
+        "projectPath": "C:\\CoderHouse\\EjemplosEnClase\\EjemploDeClase.csproj",
         "packagesPath": "C:\\Users\\facud\\.nuget\\packages\\",
-        "outputPath": "C:\\CoderHouse\\EjemploDeClase\\obj\\",
+        "outputPath": "C:\\CoderHouse\\EjemplosEnClase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
