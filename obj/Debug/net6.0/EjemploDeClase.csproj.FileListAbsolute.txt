@@ -1,0 +1,15 @@
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\EjemploDeClase.exe
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\EjemploDeClase.deps.json
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\EjemploDeClase.runtimeconfig.json
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\EjemploDeClase.dll
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\ref\EjemploDeClase.dll
+C:\CoderHouse\EjemploDeClase\bin\Debug\net6.0\EjemploDeClase.pdb
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.csproj.AssemblyReference.cache
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.AssemblyInfoInputs.cache
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.AssemblyInfo.cs
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.csproj.CoreCompileInputs.cache
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.dll
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\ref\EjemploDeClase.dll
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.pdb
+C:\CoderHouse\EjemploDeClase\obj\Debug\net6.0\EjemploDeClase.genruntimeconfig.cache
