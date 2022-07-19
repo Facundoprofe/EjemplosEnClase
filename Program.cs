@@ -4,18 +4,33 @@ namespace EjemploDeClase
     {
         static void Main(string[] args)
         {
-            // ejemlpo de figuras geometricas del 13-7-2022
-            Cubo cubo = new Cubo(5);
-            Rectangulo rectangulo = new Rectangulo(3, 6);
-            Circulo circulo = new Circulo(6);
-            
-            Console.WriteLine("volumen cubo:" + cubo.Volumen());
+            Dictionary<string, Dictionary<string, double>> menuPorSecciones
+                = new Dictionary<string, Dictionary<string, double>>();
 
-            // ejemlpo de jugadores del 14-7-2022
-            Ronaldo ronaldo = new Ronaldo(90, 30, 95, 15, 90, 50);
-            Messi messi = new Messi(88, 95, 89, 20, 90, 70);
-            Console.WriteLine(messi.DevolverVelocidad());
-            Console.WriteLine(ronaldo.DevolverVelocidad());
+            menuPorSecciones.Add("Bebidas sin alcohol", new Dictionary<string, double>
+            {
+                {"Jugos   ", 90 },
+                {"Gaseosas", 85 },
+                {"Agua    ", 95 }
+            });
+
+            menuPorSecciones.Add("Bebidas aclholicas", new Dictionary<string, double>
+            {
+                {"Daikiris", 91 },
+                {"Vinos   ", 86 },
+                {"Cerveza ", 96 }
+            });
+
+            Console.WriteLine("Seccion\t\t\t\t\tProducto\t\tPrecio");
+            foreach (KeyValuePair<string, Dictionary<string, double>> seccion in menuPorSecciones)
+            {
+                Console.WriteLine("{0}", seccion.Key);
+
+                foreach (KeyValuePair<string, double> productoYPrecio in seccion.Value)
+                {
+                    Console.WriteLine("\t\t\t\t\t{0}\t\t{1}", productoYPrecio.Key.ToUpper(), productoYPrecio.Value);
+                }
+            }
         }
     }
 }
