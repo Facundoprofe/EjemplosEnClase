@@ -28,3 +28,10 @@ C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\EjemploDeClase.dll
 C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\ref\EjemploDeClase.dll
 C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\EjemploDeClase.pdb
 C:\CoderHouse\EjemplosEnClase\obj\Debug\net6.0\EjemploDeClase.genruntimeconfig.cache
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CoderHouse\EjemplosEnClase\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\CoderHouse\EjemplosEnClase\obj\Debug\net6.0\EjemploDeClase.csproj.CopyComplete
