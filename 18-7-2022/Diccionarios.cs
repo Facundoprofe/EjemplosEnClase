@@ -20,24 +20,24 @@ namespace EjemploDeClase
                 Console.WriteLine(perroAMostrar);
             }
             // ejemplo de arrays
-            EjemploDeProducto[] bebidasGaseosas = {
-                new EjemploDeProducto(1,"Coca-cola", 23, 32, "Gaseosa"),
-                new EjemploDeProducto(2,"7UP", 26, 31, "Gaseosa"),
-                new EjemploDeProducto(3,"Manaos-cola", 24, 17, "Gaseosa"),
-                new EjemploDeProducto(4,"Paso de los toros", 25, 30, "Gaseosa"),
-            };
+            //EjemploDeProducto[] bebidasGaseosas = {
+            //    new EjemploDeProducto(1,"Coca-cola", 23, 32, "Gaseosa"),
+            //    new EjemploDeProducto(2,"7UP", 26, 31, "Gaseosa"),
+            //    new EjemploDeProducto(3,"Manaos-cola", 24, 17, "Gaseosa"),
+            //    new EjemploDeProducto(4,"Paso de los toros", 25, 30, "Gaseosa"),
+            //};
 
-            EjemploDeProducto bebidaMasCara = new EjemploDeProducto();
+            //EjemploDeProducto bebidaMasCara = new EjemploDeProducto();
 
-            foreach (EjemploDeProducto bebida in bebidasGaseosas)
-            {
-                if (bebida.PrecioDeCompra > bebidaMasCara.PrecioDeCompra)
-                {
-                    bebidaMasCara = bebida;
-                }
-            }
+            //foreach (EjemploDeProducto bebida in bebidasGaseosas)
+            //{
+            //    if (bebida.PrecioDeCompra > bebidaMasCara.PrecioDeCompra)
+            //    {
+            //        bebidaMasCara = bebida;
+            //    }
+            //}
 
-            Console.WriteLine("La bebida comprada mas cara es:{0}", bebidaMasCara.Descripcion);
+            //Console.WriteLine("La bebida comprada mas cara es:{0}", bebidaMasCara.Descripcion);
         }
     }
 

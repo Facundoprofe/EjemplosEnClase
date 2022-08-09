@@ -49,22 +49,22 @@ namespace EjemploDeClase._20_7_2022
             ejemploMatriz.Imprimir();
 
             //Ejemplo de productos con e
-            ProductosConE productosConE = new ProductosConE();
+            //ProductosConE productosConE = new ProductosConE();
 
-            ProductoConPropiedadesPublicas[] productos =
-            {
-                new ProductoConPropiedadesPublicas(1, "Yogurt descremado"),
-                new ProductoConPropiedadesPublicas(2, "Leche"),
-                new ProductoConPropiedadesPublicas(3, "Huevos"),
-                new ProductoConPropiedadesPublicas(4, "Vino"),
-                new ProductoConPropiedadesPublicas(5, "Sal"),
-                new ProductoConPropiedadesPublicas(6, "Estufa"),
-            };
+            //ProductoConPropiedadesPublicas[] productos =
+            //{
+            //    new ProductoConPropiedadesPublicas(1, "Yogurt descremado"),
+            //    new ProductoConPropiedadesPublicas(2, "Leche"),
+            //    new ProductoConPropiedadesPublicas(3, "Huevos"),
+            //    new ProductoConPropiedadesPublicas(4, "Vino"),
+            //    new ProductoConPropiedadesPublicas(5, "Sal"),
+            //    new ProductoConPropiedadesPublicas(6, "Estufa"),
+            //};
 
-            productosConE.InsertarProductosConE(productos);
-            productosConE.MostrarLista();
-            productosConE.LimpiarLista();
-            productosConE.MostrarLista();
+            //productosConE.InsertarProductosConE(productos);
+            //productosConE.MostrarLista();
+            //productosConE.LimpiarLista();
+            //productosConE.MostrarLista();
         }
 
         public class Cliente
