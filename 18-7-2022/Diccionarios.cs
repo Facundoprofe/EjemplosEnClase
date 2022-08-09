@@ -20,16 +20,16 @@ namespace EjemploDeClase
                 Console.WriteLine(perroAMostrar);
             }
             // ejemplo de arrays
-            Producto[] bebidasGaseosas = {
-                new Producto(1,"Coca-cola", 23, 32, "Gaseosa"),
-                new Producto(2,"7UP", 26, 31, "Gaseosa"),
-                new Producto(3,"Manaos-cola", 24, 17, "Gaseosa"),
-                new Producto(4,"Paso de los toros", 25, 30, "Gaseosa"),
+            EjemploDeProducto[] bebidasGaseosas = {
+                new EjemploDeProducto(1,"Coca-cola", 23, 32, "Gaseosa"),
+                new EjemploDeProducto(2,"7UP", 26, 31, "Gaseosa"),
+                new EjemploDeProducto(3,"Manaos-cola", 24, 17, "Gaseosa"),
+                new EjemploDeProducto(4,"Paso de los toros", 25, 30, "Gaseosa"),
             };
 
-            Producto bebidaMasCara = new Producto();
+            EjemploDeProducto bebidaMasCara = new EjemploDeProducto();
 
-            foreach (Producto bebida in bebidasGaseosas)
+            foreach (EjemploDeProducto bebida in bebidasGaseosas)
             {
                 if (bebida.PrecioDeCompra > bebidaMasCara.PrecioDeCompra)
                 {
